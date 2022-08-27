@@ -1,0 +1,3 @@
+Hello from the result sync file.
+Hello from first file
+Hello from teh second file.String appended
