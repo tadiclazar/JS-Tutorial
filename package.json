@@ -4,12 +4,14 @@
   "description": "None",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "nodemon app.js"
   },
   "author": "Lazar Tadic",
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }

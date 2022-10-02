@@ -1,5 +1,4 @@
 const {readFile, writeFile} = require('fs').promises;
-const util = require('util');
 
 // const readFilePromise = util.promisify(readFile);
 // const writeFilePromise = util.promisify(writeFile);
